@@ -103,7 +103,7 @@ def checkout(cart, coupons)
   end 
   
   if total > 100 
-    total -= tota
+    total -= total -
   end
   total
 end
